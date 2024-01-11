@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sql/static/css/main.90577003.css",
+    "main.js": "/react-sql/static/js/main.df053ce2.js",
+    "index.html": "/react-sql/index.html",
+    "main.90577003.css.map": "/react-sql/static/css/main.90577003.css.map",
+    "main.df053ce2.js.map": "/react-sql/static/js/main.df053ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90577003.css",
+    "static/js/main.df053ce2.js"
+  ]
+}
